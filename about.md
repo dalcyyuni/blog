@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+만나서 반가워요!
+박달씨입니다.
