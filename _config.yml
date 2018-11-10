@@ -34,10 +34,10 @@ author:
   url      : http://dalcyyuni.github.io/blog/
   github   : http://github.com/dalcyyuni
   instagram : dalcyyuni
-
 plugins:
   - bourbon
   - jekyll-paginate
+  - jekyll-sitemap
 
 # navbar pages
 navbar:
