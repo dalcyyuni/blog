@@ -29,11 +29,15 @@ sass:
 # Author settings
 author:
   name     : "Dalcy Park"
-
+  job      : "개발자"
+  email    : springfevernme@gmail.com
+  url      : http://dalcyyuni.github.io/blog/
+  github   : http://github.com/dalcyyuni
+  instagram : dalcyyuni
 plugins:
-  - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jekyll-sitemap
 
 # navbar pages
 navbar:
