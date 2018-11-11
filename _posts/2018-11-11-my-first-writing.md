@@ -3,11 +3,47 @@ layout: post
 title: "My First Writing in Blog"
 description: ""
 comments: true
-keywords: "dummy content, lorem ipsum"
+keywords: "firstBlog"
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-### Where does it come from?
+와, 내 첫 블로그라니. 나는 살아생전에 블로그를 만들어 본 적이 없다. 이름에 달씨라고 넣을 때 느낀 감격스러움은 그 때문일까.
+항상 사람들은 왜 블로그를 할까 궁금했다. 글을 쓴다는 것은 꽤 많은 에너지와 시간을 소요하기 때문이다. 그래서일까 나에게는 항상
+글쓰는 것은 비효율적인 것이라고 인식되었다. 그래서 나는 항상 그림으로 대체하길 선호했다(그렇다고 그림을 엄청 잘 그려 넣은 것은 아니다)
+블로그를 한번도 해본 사람이 혼자 글쓰기를 이끌어 나가기란 여간 쉬운일이 아니다. 그래서 '글또'라는 그룹(?)에 들어가게되었다.
+사실 지금 이 글을 쓰게된 강한 동기부여도 글또이다. (아니면 언제 이 글을 마무리했을 지 알 수 없는 일이다) 글또는 2주에 한번 글을 올리도록
+설계되어있지만, 개인적으로는 매주 글을 써 볼 계획이다. 쓰고싶은 종류의 글도 아주 많고, 개인적으로 지독한 글쟁이가 되어보고싶기도하다.
+아직 이 블로그가 어떤 식으로 운영될 지는 모르나, 지금 당장 생각나는 시리즈는 다음과 같다.
+
+1. 안드로이드 GLES
+나는 입사이래로 쭉 지엘을 해왔다. 안드로이드는 그래픽부분에서 고민해야할 부분이 많다. 성능과 굉장히 밀접하기 때문이다. 물론 2년도 안된 시간이지만 굉장히 많은 일이 있었다. 그 경험담을 하나씩 풀어서 시리즈로 적어나가볼 생각이다.
+
+2. 개발서적 리뷰
+나는 개발관련 서적 읽는 것이 즐겁다. 다른 개발자들 개발에 대한 생각이 재밌다. 그 의견에 대한 내 생각을 적어나갈 생각이다. 이 시리즈는 내가 어떤 개발자로 성장할 것인가에 대한 고민이기도할 것 이다.
+
+3. 개발 일기
+그날 그날 회사에서 나누었던 개발에 관한 의견들을 기록할 생각이다.
+
+어제의 나와 오늘의 나는 또 다르듯이, 매일매일 발전하는 블로거가 되었으면 좋겠다. 지금은 아주 간단한, 기본적인 기능한 있는 블로그이지만 한달 뒤 일년 뒤가 다른 블로그가 되었으면 좋겠다. 뭐든 시작이 중요하기에 오늘의 이 글은 완벽하지않지만 시작한 오늘이 행복하닷!
+
+
+
+
+
+
+<!-- 올해는 새롭게 시도해 본 것이 참 많다.
+수상스키, 명상, 주기적으로 읽는 책, 과일식.
+글또도 그중에 하나이다. 새로운 홈페이지, 새로운 글,
+사실 나는 글을 잘 쓰는 사람은 아니다.
+2년동안 주니어 개발자로 일하면서 많은 문제와 문제 해결을 경험했지만 글로 남겨야할 필요성을 느끼지 못했다.
+그러나 최근 글을 잘 쓰는 사람이 되고 싶어졌다. 글을 잘 쓰고 싶으면 글을 자주 써야한다. 그래서 새로운 습관을 만들고자
+글또에 신청하게 되었다. 아직 글 쓰는 것 자체가 익숙하지않은 나에게 거창한 계획을 주고싶진않다.
+그저 소소하게 그날 내가 경험한 것, 내가 쓰고 싶은 것으로 채워나갈 계획이다.
+지금 당장 남기고싶은 종류의 글은 "안드로이드에서 n x n 글자 그리기"이다.  -->
+
+
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Where does it come from? -->
 
 > This content was copied from http://www.lipsum.com/ as an example of post article.
