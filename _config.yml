@@ -1,10 +1,10 @@
 # Site settings
 title_left    : "Dalcy"
 title_right   : "Think" # default: ""
-description   : "Dalcy's writing blog."
-keywords      : "Dalcy, thinkSpace, blog, Android, Developer"
-url           : https://dalcyyuni.github.io/blog/ # site url
-baseurl       : null # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+description   : "Minimalist Jekyll theme for technical writing blog."
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url           : https://dalcyyuni.github.io/blog # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
@@ -45,7 +45,5 @@ navbar:
     title: About
   - slug : blog
     title: Blog
-  - slug : github
-    title: Github
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
