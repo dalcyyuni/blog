@@ -47,3 +47,5 @@ navbar:
     title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+disqus_url : https-dalcyyuni-github-io-blog-1.disqus.com
+disqus_id : disqus_YZ76D22AF5
