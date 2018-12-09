@@ -38,6 +38,8 @@ plugins:
   - bourbon
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-feed
 
 # navbar pages
 navbar:
