@@ -49,5 +49,5 @@ navbar:
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
 
 disqus_shortname : https-dalcyyuni-github-io-blog-1.
-disqus_username : https-dalcyyuni-github-io-blog-1.
+disqus_username : disqus_YZ76D22AF5
 discus-identifier: https-dalcyyuni-github-io-blog-1.
